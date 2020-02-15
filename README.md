@@ -1,4 +1,4 @@
-# Whatsapp_Automatizado
+# Whatsapp Automatizado
 Script de envio de mensagem automatizado utilizando o Whatsapp Web, Python e Selenium - Ver. 0x1
 
 Bugs:
